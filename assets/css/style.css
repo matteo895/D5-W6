@@ -1,0 +1,24 @@
+.navbar-logo img {
+  width: 100px;
+}
+
+.img-small {
+  width: 25px;
+  height: 25px;
+}
+
+.img-container {
+  padding: 0;
+  margin: 0;
+}
+
+.text-img {
+  margin: 0;
+  padding: 0;
+}
+
+#bottone-1 {
+  background-color: black;
+  padding: 0.5rem 2rem;
+  margin: 0;
+}
