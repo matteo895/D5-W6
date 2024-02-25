@@ -1,5 +1,5 @@
 .navbar-logo img {
-  width: 150px;
+  width: 100px;
 }
 
 .img-small {
@@ -19,6 +19,4 @@
 
 #bottone-1 {
   background-color: black;
-  padding: 0.5rem 2rem;
-  margin: 0;
 }
